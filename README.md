@@ -50,6 +50,6 @@ Exercism is an opensource coding and learning platform. I maintain the Javascrip
 ## Around The Web
 
 - Blog: [tejasbubane.github.io](https://tejasbubane.github.io/)
+- Slides: [@tejasbubane](https://speakerdeck.com/tejasbubane)
 - GitHub: [@tejasbubane](https://github.com/tejasbubane)
 - X/Twitter: [@tejasbubane](https://twitter.com/tejasbubane)
-- Slides: [@tejasbubane](https://speakerdeck.com/tejasbubane)
