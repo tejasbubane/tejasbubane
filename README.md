@@ -8,10 +8,10 @@
 
 </div>
 
-## Main Skills
+## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,ts,elixir,haskell,emacs,git" alt="Top languages and tools: Ruby, Typescript, Elixir, Haskell, Emacs Lisp, Git." />
+  <img src="https://skillicons.dev/icons?i=ruby,ts,python,postgres,elixir,haskell,emacs,git,kubernetes" alt="Top languages and tools: Ruby, Typescript, Python, Postgres, Elixir, Haskell, Emacs Lisp, Git, Kubernetes." />
 </p>
 
 
